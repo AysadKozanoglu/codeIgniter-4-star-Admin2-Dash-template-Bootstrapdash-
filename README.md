@@ -9,9 +9,11 @@
 (https://github.com/AysadKozanoglu/codeIgniter-4-star-Admin2-Dash-template-Bootstrapdash-/blob/master/app/Views/template.php)
 
 ### to see how to handle with template over CI MCV sample
--[controller](https://github.com/AysadKozanoglu/codeIgniter-4-star-Admin2-Dash-template-Bootstrapdash-/blob/master/app/Controllers/Main.php)
+sample controller
+(https://github.com/AysadKozanoglu/codeIgniter-4-star-Admin2-Dash-template-Bootstrapdash-/blob/master/app/Controllers/Main.php)
 
--[view](https://github.com/AysadKozanoglu/codeIgniter-4-star-Admin2-Dash-template-Bootstrapdash-/blob/master/app/Views/layout/starAdmin2_overview.php)
+sample view
+(https://github.com/AysadKozanoglu/codeIgniter-4-star-Admin2-Dash-template-Bootstrapdash-/blob/master/app/Views/layout/starAdmin2_overview.php)
 
 ##### info
 code is free to use for anything for your needs
