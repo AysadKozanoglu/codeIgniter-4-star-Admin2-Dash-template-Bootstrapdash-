@@ -13,8 +13,8 @@ https://github.com/AysadKozanoglu/codeIgniter-4-star-Admin2-Dash-template-Bootst
 
 - [sample view](https://github.com/AysadKozanoglu/codeIgniter-4-star-Admin2-Dash-template-Bootstrapdash-/blob/master/app/Views/layout/starAdmin2_overview.php)
 
-## to modify to your own needs see following config file
+## to modify to your own needs see following  files and file structure
 - [app/Config/App.php line 10-12](https://github.com/AysadKozanoglu/codeIgniter-4-star-Admin2-Dash-template-Bootstrapdash-/blob/master/app/Config/App.php)
-
+- [app/Views/ layout/*](https://github.com/AysadKozanoglu/codeIgniter-4-star-Admin2-Dash-template-Bootstrapdash-/tree/master/app/Views/layout)
 ##### info
 code is free to use for anything for your needs
