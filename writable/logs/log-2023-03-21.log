@@ -1,0 +1,403 @@
+CRITICAL - 2023-03-21 11:29:24 --> Invalid file: "welcome_template.php"
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Home.php(23): view()
+ 4 SYSTEMPATH/CodeIgniter.php(935): App\Controllers\Home->index()
+ 5 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(369): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 11:30:40 --> Call to a member function view() on null
+in APPPATH/Controllers/Home.php on line 23.
+ 1 SYSTEMPATH/CodeIgniter.php(935): App\Controllers\Home->index()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(369): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 11:33:06 --> Invalid file: "parts/header.php"
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Home.php(22): view()
+ 4 SYSTEMPATH/CodeIgniter.php(935): App\Controllers\Home->index()
+ 5 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(369): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 11:38:18 --> Undefined class constant 'defaultTemplate'
+in APPPATH/Controllers/Home.php on line 22.
+ 1 SYSTEMPATH/CodeIgniter.php(935): App\Controllers\Home->index()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(369): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 11:38:33 --> Class 'CodeIgniter\Config' not found
+in APPPATH/Controllers/Home.php on line 22.
+ 1 SYSTEMPATH/CodeIgniter.php(935): App\Controllers\Home->index()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(369): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 11:39:01 --> Undefined class constant 'defaultTemplate'
+in APPPATH/Controllers/Home.php on line 22.
+ 1 SYSTEMPATH/CodeIgniter.php(935): App\Controllers\Home->index()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(369): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 11:39:02 --> Undefined class constant 'defaultTemplate'
+in APPPATH/Controllers/Home.php on line 22.
+ 1 SYSTEMPATH/CodeIgniter.php(935): App\Controllers\Home->index()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(369): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 11:39:02 --> Undefined class constant 'defaultTemplate'
+in APPPATH/Controllers/Home.php on line 22.
+ 1 SYSTEMPATH/CodeIgniter.php(935): App\Controllers\Home->index()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(369): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 11:39:02 --> Undefined class constant 'defaultTemplate'
+in APPPATH/Controllers/Home.php on line 22.
+ 1 SYSTEMPATH/CodeIgniter.php(935): App\Controllers\Home->index()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(369): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 11:39:02 --> Undefined class constant 'defaultTemplate'
+in APPPATH/Controllers/Home.php on line 22.
+ 1 SYSTEMPATH/CodeIgniter.php(935): App\Controllers\Home->index()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(369): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 11:39:03 --> Undefined class constant 'defaultTemplate'
+in APPPATH/Controllers/Home.php on line 22.
+ 1 SYSTEMPATH/CodeIgniter.php(935): App\Controllers\Home->index()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(369): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 11:39:03 --> Undefined class constant 'defaultTemplate'
+in APPPATH/Controllers/Home.php on line 22.
+ 1 SYSTEMPATH/CodeIgniter.php(935): App\Controllers\Home->index()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(369): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 11:39:03 --> Undefined class constant 'defaultTemplate'
+in APPPATH/Controllers/Home.php on line 22.
+ 1 SYSTEMPATH/CodeIgniter.php(935): App\Controllers\Home->index()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(369): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 11:44:53 --> Call to a member function view() on null
+in APPPATH/Views/template.php on line 2.
+ 1 SYSTEMPATH/View/View.php(213): include()
+ 2 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 4 APPPATH/Controllers/Home.php(23): view()
+ 5 SYSTEMPATH/CodeIgniter.php(935): App\Controllers\Home->index()
+ 6 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(369): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 11:45:32 --> Invalid file: "layout/welcometemplate.php"
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 3 APPPATH/Views/template.php(3): view()
+ 4 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/template.php')
+ 5 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 7 APPPATH/Controllers/Home.php(23): view()
+ 8 SYSTEMPATH/CodeIgniter.php(935): App\Controllers\Home->index()
+ 9 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->runController()
+10 SYSTEMPATH/CodeIgniter.php(369): CodeIgniter\CodeIgniter->handleRequest()
+11 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 11:56:02 --> syntax error, unexpected ')'
+in APPPATH/Views/template.php on line 1.
+ 1 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Home.php(23): view()
+ 4 SYSTEMPATH/CodeIgniter.php(935): App\Controllers\Home->index()
+ 5 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(369): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 11:56:13 --> syntax error, unexpected ')'
+in APPPATH/Views/template.php on line 1.
+ 1 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Home.php(23): view()
+ 4 SYSTEMPATH/CodeIgniter.php(935): App\Controllers\Home->index()
+ 5 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(369): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 11:56:13 --> syntax error, unexpected ')'
+in APPPATH/Views/template.php on line 1.
+ 1 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Home.php(23): view()
+ 4 SYSTEMPATH/CodeIgniter.php(935): App\Controllers\Home->index()
+ 5 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(369): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 11:56:13 --> syntax error, unexpected ')'
+in APPPATH/Views/template.php on line 1.
+ 1 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Home.php(23): view()
+ 4 SYSTEMPATH/CodeIgniter.php(935): App\Controllers\Home->index()
+ 5 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(369): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 11:56:13 --> syntax error, unexpected ')'
+in APPPATH/Views/template.php on line 1.
+ 1 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Home.php(23): view()
+ 4 SYSTEMPATH/CodeIgniter.php(935): App\Controllers\Home->index()
+ 5 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(369): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 11:59:00 --> basename() expects at least 1 parameter, 0 given
+in APPPATH/Views/template.php on line 1.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Views/template.php(1): basename()
+ 3 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/template.php')
+ 4 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 6 APPPATH/Controllers/Home.php(23): view()
+ 7 SYSTEMPATH/CodeIgniter.php(935): App\Controllers\Home->index()
+ 8 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->runController()
+ 9 SYSTEMPATH/CodeIgniter.php(369): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 12:10:36 --> syntax error, unexpected 'if' (T_IF)
+in APPPATH/Views/template.php on line 1.
+ 1 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Home.php(23): view()
+ 4 SYSTEMPATH/CodeIgniter.php(935): App\Controllers\Home->index()
+ 5 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(369): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 12:30:00 --> Argument 1 passed to CodeIgniter\View\Parser::setData() must be of the type array, null given, called in /var/www/codeigniter/ci4.3.2-star-admin/app/Views/template.php on line 9
+in SYSTEMPATH/View/Parser.php on line 185.
+ 1 APPPATH/Views/template.php(9): CodeIgniter\View\Parser->setData()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/template.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Home.php(23): view()
+ 6 SYSTEMPATH/CodeIgniter.php(935): App\Controllers\Home->index()
+ 7 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(369): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 12:36:10 --> Argument 1 passed to CodeIgniter\View\Parser::render() must be of the type string, null given, called in /var/www/codeigniter/ci4.3.2-star-admin/app/Controllers/Home.php on line 23
+in SYSTEMPATH/View/Parser.php on line 92.
+ 1 APPPATH/Controllers/Home.php(23): CodeIgniter\View\Parser->render()
+ 2 SYSTEMPATH/CodeIgniter.php(935): App\Controllers\Home->index()
+ 3 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(369): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 12:38:26 --> Invalid file: "/var/www/codeigniter/ci4.3.2-star-admin/app/Config/../Views/welcome_template.php"
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/Parser.php(119): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 APPPATH/Controllers/Home.php(23): CodeIgniter\View\Parser->render()
+ 3 SYSTEMPATH/CodeIgniter.php(935): App\Controllers\Home->index()
+ 4 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(369): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 12:39:49 --> Invalid file: "/var/www/codeigniter/ci4.3.2-star-admin/app/Config/../Views//var/www/codeigniter/ci4.3.2-star-admin/app/Views/layout/welcome_template.php"
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/Parser.php(119): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 APPPATH/Controllers/Home.php(23): CodeIgniter\View\Parser->render()
+ 3 SYSTEMPATH/CodeIgniter.php(935): App\Controllers\Home->index()
+ 4 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(369): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 12:40:20 --> Invalid file: "/var/www/codeigniter/ci4.3.2-star-admin/app/Config/../Views/welcome_template.php"
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/Parser.php(119): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 APPPATH/Controllers/Home.php(23): CodeIgniter\View\Parser->render()
+ 3 SYSTEMPATH/CodeIgniter.php(935): App\Controllers\Home->index()
+ 4 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(369): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 12:48:17 --> Argument 2 passed to view() must be of the type array, string given, called in /var/www/codeigniter/ci4.3.2-star-admin/app/Controllers/Home.php on line 25
+in SYSTEMPATH/Common.php on line 1172.
+ 1 APPPATH/Controllers/Home.php(25): view()
+ 2 SYSTEMPATH/CodeIgniter.php(935): App\Controllers\Home->index()
+ 3 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(369): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 12:48:30 --> Argument 2 passed to view() must be of the type array, string given, called in /var/www/codeigniter/ci4.3.2-star-admin/app/Controllers/Home.php on line 25
+in SYSTEMPATH/Common.php on line 1172.
+ 1 APPPATH/Controllers/Home.php(25): view()
+ 2 SYSTEMPATH/CodeIgniter.php(935): App\Controllers\Home->index()
+ 3 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(369): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 12:48:30 --> Argument 2 passed to view() must be of the type array, string given, called in /var/www/codeigniter/ci4.3.2-star-admin/app/Controllers/Home.php on line 25
+in SYSTEMPATH/Common.php on line 1172.
+ 1 APPPATH/Controllers/Home.php(25): view()
+ 2 SYSTEMPATH/CodeIgniter.php(935): App\Controllers\Home->index()
+ 3 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(369): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 12:48:30 --> Argument 2 passed to view() must be of the type array, string given, called in /var/www/codeigniter/ci4.3.2-star-admin/app/Controllers/Home.php on line 25
+in SYSTEMPATH/Common.php on line 1172.
+ 1 APPPATH/Controllers/Home.php(25): view()
+ 2 SYSTEMPATH/CodeIgniter.php(935): App\Controllers\Home->index()
+ 3 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(369): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 12:48:31 --> Argument 2 passed to view() must be of the type array, string given, called in /var/www/codeigniter/ci4.3.2-star-admin/app/Controllers/Home.php on line 25
+in SYSTEMPATH/Common.php on line 1172.
+ 1 APPPATH/Controllers/Home.php(25): view()
+ 2 SYSTEMPATH/CodeIgniter.php(935): App\Controllers\Home->index()
+ 3 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(369): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 12:48:31 --> Argument 2 passed to view() must be of the type array, string given, called in /var/www/codeigniter/ci4.3.2-star-admin/app/Controllers/Home.php on line 25
+in SYSTEMPATH/Common.php on line 1172.
+ 1 APPPATH/Controllers/Home.php(25): view()
+ 2 SYSTEMPATH/CodeIgniter.php(935): App\Controllers\Home->index()
+ 3 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(369): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 13:13:55 --> Call to a member function setData() on null
+in APPPATH/Controllers/Home.php on line 32.
+ 1 SYSTEMPATH/CodeIgniter.php(935): App\Controllers\Home->index()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(369): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 13:14:25 --> Argument 1 passed to CodeIgniter\View\Parser::setData() must be of the type array, null given, called in /var/www/codeigniter/ci4.3.2-star-admin/app/Views/template.php on line 5
+in SYSTEMPATH/View/Parser.php on line 185.
+ 1 APPPATH/Views/template.php(5): CodeIgniter\View\Parser->setData()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/template.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Home.php(35): view()
+ 6 SYSTEMPATH/CodeIgniter.php(935): App\Controllers\Home->index()
+ 7 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(369): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 13:15:02 --> syntax error, unexpected ']', expecting ')'
+in APPPATH/Views/template.php on line 5.
+ 1 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Home.php(35): view()
+ 4 SYSTEMPATH/CodeIgniter.php(935): App\Controllers\Home->index()
+ 5 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(369): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 13:15:18 --> Call to a member function render() on string
+in APPPATH/Views/template.php on line 7.
+ 1 SYSTEMPATH/View/View.php(213): include()
+ 2 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 4 APPPATH/Controllers/Home.php(35): view()
+ 5 SYSTEMPATH/CodeIgniter.php(935): App\Controllers\Home->index()
+ 6 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(369): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 13:17:27 --> Call to undefined function render()
+in APPPATH/Views/template.php on line 7.
+ 1 SYSTEMPATH/View/View.php(213): include()
+ 2 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 4 APPPATH/Controllers/Home.php(35): view()
+ 5 SYSTEMPATH/CodeIgniter.php(935): App\Controllers\Home->index()
+ 6 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(369): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 14:42:42 --> Invalid file: "/var/www/codeigniter/ci4.3.2-star-admin/app/Config/../Views/layout/welcome_template.php"
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/Parser.php(119): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 APPPATH/Controllers/Home.php(33): CodeIgniter\View\Parser->render()
+ 3 SYSTEMPATH/CodeIgniter.php(935): App\Controllers\Home->index()
+ 4 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(369): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 14:42:48 --> Invalid file: "/var/www/codeigniter/ci4.3.2-star-admin/app/Config/../Views/layout/welcome_template.php"
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/Parser.php(119): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 APPPATH/Controllers/Home.php(33): CodeIgniter\View\Parser->render()
+ 3 SYSTEMPATH/CodeIgniter.php(935): App\Controllers\Home->index()
+ 4 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(369): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 15:18:27 --> syntax error, unexpected ''ver'' (T_CONSTANT_ENCAPSED_STRING), expecting ')'
+in APPPATH/Controllers/Demo.php on line 26.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile()
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+ 4 [internal function]: spl_autoload_call()
+ 5 SYSTEMPATH/CodeIgniter.php(893): class_exists()
+ 6 SYSTEMPATH/CodeIgniter.php(487): CodeIgniter\CodeIgniter->startController()
+ 7 SYSTEMPATH/CodeIgniter.php(369): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 15:22:13 --> Undefined constant 'Config\App\SITE_HEADING'
+in APPPATH/Views/layout_template/parts/header.php on line 10.
+ 1 SYSTEMPATH/View/View.php(213): include()
+ 2 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 4 APPPATH/Views/template.php(3): view()
+ 5 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/template.php')
+ 6 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 7 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 8 APPPATH/Controllers/Demo.php(36): view()
+ 9 SYSTEMPATH/CodeIgniter.php(935): App\Controllers\Demo->index()
+10 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->runController()
+11 SYSTEMPATH/CodeIgniter.php(369): CodeIgniter\CodeIgniter->handleRequest()
+12 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 17:40:56 --> Invalid file: "/var/www/codeigniter/ci4.3.2-star-admin/app/Config/../Views/layout_template/staradmin2_template.php"
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/Parser.php(119): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 APPPATH/Controllers/Main.php(34): CodeIgniter\View\Parser->render()
+ 3 SYSTEMPATH/CodeIgniter.php(935): App\Controllers\main->index()
+ 4 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(369): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 17:44:09 --> Use of undefined constant parse - assumed 'parse' (this will throw an Error in a future version of PHP)
+in APPPATH/Controllers/Main.php on line 36.
+ 1 APPPATH/Controllers/Main.php(36): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(935): App\Controllers\Main->index()
+ 3 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(369): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 17:44:19 --> Use of undefined constant parse - assumed 'parse' (this will throw an Error in a future version of PHP)
+in APPPATH/Controllers/Main.php on line 36.
+ 1 APPPATH/Controllers/Main.php(36): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(935): App\Controllers\Main->index()
+ 3 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(369): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 20:08:36 --> Call to a member function setData() on null
+in APPPATH/Controllers/Main.php on line 46.
+ 1 SYSTEMPATH/CodeIgniter.php(935): App\Controllers\Main->buttons()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(369): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 20:11:37 --> Too few arguments to function CodeIgniter\View\Parser::__construct(), 0 passed in /var/www/codeigniter/ci4.3.2-star-admin/app/Controllers/Main.php on line 5 and at least 1 expected
+in SYSTEMPATH/View/Parser.php on line 78.
+ 1 APPPATH/Controllers/Main.php(5): CodeIgniter\View\Parser->__construct()
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(312): include_once('APPPATH/Controllers/Main.php')
+ 3 SYSTEMPATH/Autoloader/Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile()
+ 4 SYSTEMPATH/Autoloader/Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+ 5 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+ 6 [internal function]: spl_autoload_call()
+ 7 SYSTEMPATH/CodeIgniter.php(893): class_exists()
+ 8 SYSTEMPATH/CodeIgniter.php(487): CodeIgniter\CodeIgniter->startController()
+ 9 SYSTEMPATH/CodeIgniter.php(369): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 20:12:28 --> Call to a member function setData() on null
+in APPPATH/Controllers/Main.php on line 46.
+ 1 SYSTEMPATH/CodeIgniter.php(935): App\Controllers\Main->buttons()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(369): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 20:13:01 --> Call to a member function setData() on null
+in APPPATH/Controllers/Main.php on line 46.
+ 1 SYSTEMPATH/CodeIgniter.php(935): App\Controllers\Main->buttons()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(369): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 20:32:04 --> Invalid file: "/var/www/codeigniter/ci4.3.2-star-admin/app/Config/../Views/layout/starAdmin2_buttons.php"
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/Parser.php(119): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 APPPATH/Controllers/Main.php(66): CodeIgniter\View\Parser->render()
+ 3 SYSTEMPATH/CodeIgniter.php(935): App\Controllers\Main->examples()
+ 4 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(369): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
