@@ -1,0 +1,16 @@
+CRITICAL - 2023-03-22 15:09:44 --> Invalid file: "/var/www/codeigniter/wb-ci4-stardamin/app/Config/../Views/layout/starAdmin2_charts.php"
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/Parser.php(119): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 APPPATH/Controllers/Main.php(66): CodeIgniter\View\Parser->render()
+ 3 SYSTEMPATH/CodeIgniter.php(935): App\Controllers\Main->examples()
+ 4 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(369): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-22 15:16:26 --> Invalid file: "/var/www/codeigniter/wb-ci4-stardamin/app/Config/../Views/layout/starAdmin2_icons.php"
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/Parser.php(119): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 APPPATH/Controllers/Main.php(66): CodeIgniter\View\Parser->render()
+ 3 SYSTEMPATH/CodeIgniter.php(935): App\Controllers\Main->examples()
+ 4 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(369): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()

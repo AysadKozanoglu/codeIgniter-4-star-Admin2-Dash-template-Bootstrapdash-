@@ -1,4 +1,4 @@
-<div class="container-scroller">
+<div class=" container-scroller">
     <!-- partial:../../partials/_navbar.html -->
     <nav class="navbar default-layout col-lg-12 col-12 p-0 fixed-top d-flex align-items-top flex-row">
       <div class="text-center navbar-brand-wrapper d-flex align-items-center justify-content-start">
@@ -9,10 +9,10 @@
         </div>
         <div>
           <a class="navbar-brand brand-logo" href="../../index.html">
-            <img src="../../images/logo.svg" alt="logo" />
+            <img src="{url}/assets/images/logo.svg" alt="logo" />
           </a>
           <a class="navbar-brand brand-logo-mini" href="../../index.html">
-            <img src="../../images/logo-mini.svg" alt="logo" />
+            <img src="{url}/assets/images/logo-mini.svg" alt="logo" />
           </a>
         </div>
       </div>
@@ -122,7 +122,7 @@
               <div class="dropdown-divider"></div>
               <a class="dropdown-item preview-item">
                 <div class="preview-thumbnail">
-                  <img src="../../images/faces/face10.jpg" alt="image" class="img-sm profile-pic">
+                  <img src="{url}/assets/images/faces/face10.jpg" alt="image" class="img-sm profile-pic">
                 </div>
                 <div class="preview-item-content flex-grow py-2">
                   <p class="preview-subject ellipsis font-weight-medium text-dark">Marian Garner </p>
@@ -131,7 +131,7 @@
               </a>
               <a class="dropdown-item preview-item">
                 <div class="preview-thumbnail">
-                  <img src="../../images/faces/face12.jpg" alt="image" class="img-sm profile-pic">
+                  <img src="{url}/assets/images/faces/face12.jpg" alt="image" class="img-sm profile-pic">
                 </div>
                 <div class="preview-item-content flex-grow py-2">
                   <p class="preview-subject ellipsis font-weight-medium text-dark">David Grey </p>
@@ -140,7 +140,7 @@
               </a>
               <a class="dropdown-item preview-item">
                 <div class="preview-thumbnail">
-                  <img src="../../images/faces/face1.jpg" alt="image" class="img-sm profile-pic">
+                  <img src="{url}/assets/images/faces/face1.jpg" alt="image" class="img-sm profile-pic">
                 </div>
                 <div class="preview-item-content flex-grow py-2">
                   <p class="preview-subject ellipsis font-weight-medium text-dark">Travis Jenkins </p>
@@ -151,10 +151,10 @@
           </li>
           <li class="nav-item dropdown d-none d-lg-block user-dropdown">
             <a class="nav-link" id="UserDropdown" href="#" data-bs-toggle="dropdown" aria-expanded="false">
-              <img class="img-xs rounded-circle" src="../../images/faces/face8.jpg" alt="Profile image"> </a>
+              <img class="img-xs rounded-circle" src="{url}/assets/images/faces/face8.jpg" alt="Profile image"> </a>
             <div class="dropdown-menu dropdown-menu-right navbar-dropdown" aria-labelledby="UserDropdown">
               <div class="dropdown-header text-center">
-                <img class="img-md rounded-circle" src="../../images/faces/face8.jpg" alt="Profile image">
+                <img class="img-md rounded-circle" src="{url}/assets/images/faces/face8.jpg" alt="Profile image">
                 <p class="mb-1 mt-3 font-weight-semibold">Allen Moreno</p>
                 <p class="fw-light text-muted mb-0">allenmoreno@gmail.com</p>
               </div>
@@ -287,7 +287,7 @@
             </div>
             <ul class="chat-list">
               <li class="list active">
-                <div class="profile"><img src="../../images/faces/face1.jpg" alt="image"><span class="online"></span></div>
+                <div class="profile"><img src="{url}/assets/images/faces/face1.jpg" alt="image"><span class="online"></span></div>
                 <div class="info">
                   <p>Thomas Douglas</p>
                   <p>Available</p>
@@ -295,7 +295,7 @@
                 <small class="text-muted my-auto">19 min</small>
               </li>
               <li class="list">
-                <div class="profile"><img src="../../images/faces/face2.jpg" alt="image"><span class="offline"></span></div>
+                <div class="profile"><img src="{url}/assets/images/faces/face2.jpg" alt="image"><span class="offline"></span></div>
                 <div class="info">
                   <div class="wrapper d-flex">
                     <p>Catherine</p>
@@ -306,7 +306,7 @@
                 <small class="text-muted my-auto">23 min</small>
               </li>
               <li class="list">
-                <div class="profile"><img src="../../images/faces/face3.jpg" alt="image"><span class="online"></span></div>
+                <div class="profile"><img src="{url}/assets/images/faces/face3.jpg" alt="image"><span class="online"></span></div>
                 <div class="info">
                   <p>Daniel Russell</p>
                   <p>Available</p>
@@ -314,7 +314,7 @@
                 <small class="text-muted my-auto">14 min</small>
               </li>
               <li class="list">
-                <div class="profile"><img src="../../images/faces/face4.jpg" alt="image"><span class="offline"></span></div>
+                <div class="profile"><img src="{url}/assets/images/faces/face4.jpg" alt="image"><span class="offline"></span></div>
                 <div class="info">
                   <p>James Richardson</p>
                   <p>Away</p>
@@ -322,7 +322,7 @@
                 <small class="text-muted my-auto">2 min</small>
               </li>
               <li class="list">
-                <div class="profile"><img src="../../images/faces/face5.jpg" alt="image"><span class="online"></span></div>
+                <div class="profile"><img src="{url}/assets/images/faces/face5.jpg" alt="image"><span class="online"></span></div>
                 <div class="info">
                   <p>Madeline Kennedy</p>
                   <p>Available</p>
@@ -330,7 +330,7 @@
                 <small class="text-muted my-auto">5 min</small>
               </li>
               <li class="list">
-                <div class="profile"><img src="../../images/faces/face6.jpg" alt="image"><span class="online"></span></div>
+                <div class="profile"><img src="{url}/assets/images/faces/face6.jpg" alt="image"><span class="online"></span></div>
                 <div class="info">
                   <p>Sarah Graves</p>
                   <p>Available</p>
@@ -439,461 +439,238 @@
         </ul>
       </nav>
       <!-- partial -->
-      <div class="main-panel">
+      <div class="main-panel">        
         <div class="content-wrapper">
           <div class="row">
-            <div class="col-md-6 grid-margin stretch-card">
+            <div class="col-lg-12 grid-margin">
               <div class="card">
                 <div class="card-body">
-                  <h4 class="card-title">Headings</h4>
-                  <p class="card-description">
-                    Add tags <code>&lt;h1&gt;</code> to <code>&lt;h6&gt;</code> or class <code>.h1</code> to <code>.h6</code>
-                  </p>
-                  <div class="template-demo">
-                    <h1>h1. Heading</h1>
-                    <h2>h2. Heading</h2>
-                    <h3>h3. Heading</h3>
-                    <h4>h4. Heading</h4>
-                    <h5>h5. Heading</h5>
-                    <h6>h6. Heading</h6>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="col-md-6 grid-margin stretch-card">
-              <div class="card">
-                <div class="card-body">
-                  <h4 class="card-title">Headings with secondary text</h4>
-                  <p class="card-description">
-                    Add faded secondary text to headings
-                  </p>
-                  <div class="template-demo">
-                    <h1>
-                      h1. Heading
-                      <small class="text-muted">
-                        Secondary text
-                      </small>
-                    </h1>
-                    <h2>
-                      h2. Heading
-                      <small class="text-muted">
-                        Secondary text
-                      </small>
-                    </h2>
-                    <h3>
-                      h3. Heading
-                      <small class="text-muted">
-                        Secondary text
-                      </small>
-                    </h3>
-                    <h4>
-                      h4. Heading
-                      <small class="text-muted">
-                        Secondary text
-                      </small>
-                    </h4>
-                    <h5>
-                      h5. Heading
-                      <small class="text-muted">
-                        Secondary text
-                      </small>
-                    </h5>
-                    <h6>
-                      h6. Heading
-                      <small class="text-muted">
-                        Secondary text
-                      </small>
-                    </h6>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="col-md-6 grid-margin stretch-card">
-              <div class="card">
-                <div class="card-body">
-                  <h4 class="card-title">Display headings</h4>
-                  <p class="card-description">
-                    Add class <code>.display1</code> to <code>.display-4</code>
-                  </p>
-                  <div class="template-demo">
-                    <h1 class="display-1">Display 1</h1>
-                    <h1 class="display-2">Display 2</h1>
-                    <h1 class="display-3">Display 3</h1>
-                    <h1 class="display-4">Display 4</h1>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="col-md-6 d-flex align-items-stretch">
-              <div class="row">
-                <div class="col-md-12 grid-margin stretch-card">
-                  <div class="card">
-                    <div class="card-body">
-                      <h4 class="card-title">Paragraph</h4>
-                      <p class="card-description">
-                        Write text in <code>&lt;p&gt;</code> tag
-                      </p>
-                      <p>
-                        Lorem Ipsum is simply dummy text of the printing
-                        Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-                        when an unknown printer took a galley not only five centuries,
-                      </p>
+                  <div class="row icons-list">
+                    <div class="col-sm-6 col-md-4 col-lg-3">
+                        <i class="mdi mdi-access-point"></i> mdi mdi-access-point
                     </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3">
+                        <i class="mdi mdi-access-point-network"></i> mdi mdi-access-point-network
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3">
+                        <i class="mdi mdi-account"></i> mdi mdi-account
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3">
+                        <i class="mdi mdi-account-box"></i> mdi mdi-account-box
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3">
+                        <i class="mdi mdi-account-box-outline"></i> mdi mdi-account-box-outline
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3">
+                        <i class="mdi mdi-account-card-details"></i> mdi mdi-account-card-details
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3">
+                        <i class="mdi mdi-account-check"></i> mdi mdi-account-check
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3">
+                        <i class="mdi mdi-account-circle"></i> mdi mdi-account-circle
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3">
+                        <i class="mdi mdi-account-convert"></i> mdi mdi-account-convert
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3">
+                        <i class="mdi mdi-account-key"></i> mdi mdi-account-key
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3">
+                        <i class="mdi mdi-account-minus"></i> mdi mdi-account-minus
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3">
+                        <i class="mdi mdi-account-multiple"></i> mdi mdi-account-multiple
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3">
+                        <i class="mdi mdi-account-multiple-minus"></i> mdi mdi-account-multiple-minus
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3">
+                        <i class="mdi mdi-account-multiple-outline"></i> mdi mdi-account-multiple-outline
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3">
+                        <i class="mdi mdi-account-multiple-plus"></i> mdi mdi-account-multiple-plus
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3">
+                        <i class="mdi mdi-account-network"></i> mdi mdi-account-network
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3">
+                        <i class="mdi mdi-account-off"></i> mdi mdi-account-off
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3">
+                        <i class="mdi mdi-account-outline"></i> mdi mdi-account-outline
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3">
+                        <i class="mdi mdi-account-plus"></i> mdi mdi-account-plus
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3">
+                        <i class="mdi mdi-account-remove"></i> mdi mdi-account-remove
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3">
+                        <i class="mdi mdi-account-search"></i> mdi mdi-account-search
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3">
+                        <i class="mdi mdi-account-settings"></i> mdi mdi-account-settings
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3">
+                        <i class="mdi mdi-account-star"></i> mdi mdi-account-star
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3">
+                        <i class="mdi mdi-account-switch"></i> mdi mdi-account-switch
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3">
+                        <i class="mdi mdi-adjust"></i> mdi mdi-adjust
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3">
+                        <i class="mdi mdi-air-conditioner"></i> mdi mdi-air-conditioner
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3">
+                        <i class="mdi mdi-airballoon"></i> mdi mdi-airballoon
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3">
+                        <i class="mdi mdi-airplane"></i> mdi mdi-airplane
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3">
+                        <i class="mdi mdi-airplane-landing"></i> mdi mdi-airplane-landing
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3">
+                        <i class="mdi mdi-airplane-off"></i> mdi mdi-airplane-off
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3">
+                        <i class="mdi mdi-airplane-takeoff"></i> mdi mdi-airplane-takeoff
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3">
+                        <i class="mdi mdi-airplay"></i> mdi mdi-airplay
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3">
+                        <i class="mdi mdi-alarm"></i> mdi mdi-alarm
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3">
+                        <i class="mdi mdi-alarm-check"></i> mdi mdi-alarm-check
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3">
+                        <i class="mdi mdi-alarm-multiple"></i> mdi mdi-alarm-multiple
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3">
+                        <i class="mdi mdi-alarm-off"></i> mdi mdi-alarm-off
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3">
+                        <i class="mdi mdi-alarm-plus"></i> mdi mdi-alarm-plus
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3">
+                        <i class="mdi mdi-album"></i> mdi mdi-albums
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3">
+                        <i class="mdi mdi-alert"></i> mdi mdi-alert
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3">
+                        <i class="mdi mdi-alert-box"></i> mdi mdi-alert-box
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3">
+                        <i class="mdi mdi-alert-circle"></i> mdi mdi-alert-circle
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3">
+                        <i class="mdi mdi-alert-circle-outline"></i> mdi mdi-alert-circle-outline
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3">
+                        <i class="mdi mdi-alert-octagon"></i> mdi mdi-alert-octagon
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3">
+                        <i class="mdi mdi-alert-outline"></i> mdi mdi-alert-outline
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3">
+                        <i class="mdi mdi-alpha"></i> mdi mdi-alpha
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3">
+                        <i class="mdi mdi-alphabetical"></i> mdi mdi-alphabetical
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3">
+                        <i class="mdi mdi-altimeter"></i> mdi mdi-altimeter
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3">
+                        <i class="mdi mdi-amazon"></i> mdi mdi-amazon
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3">
+                        <i class="mdi mdi-ambulance"></i> mdi mdi-ambulance
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3">
+                        <i class="mdi mdi-amplifier"></i> mdi mdi-amplifier
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3">
+                        <i class="mdi mdi-anchor"></i> mdi mdi-anchor
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3">
+                        <i class="mdi mdi-android"></i> mdi mdi-android
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3">
+                        <i class="mdi mdi-android-debug-bridge"></i> mdi mdi-android-debug-bridge
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3">
+                        <i class="mdi mdi-android-studio"></i> mdi mdi-android-studio
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3">
+                        <i class="mdi mdi-animation"></i> mdi mdi-animation
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3">
+                        <i class="mdi mdi-apple"></i> mdi mdi-apple
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3">
+                        <i class="mdi mdi-apple-finder"></i> mdi mdi-apple-finder
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3">
+                        <i class="mdi mdi-apple-ios"></i> mdi mdi-apple-ios
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3">
+                        <i class="mdi mdi-apple-keyboard-caps"></i> mdi mdi-apple-keyboard-caps
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3">
+                        <i class="mdi mdi-apple-keyboard-command"></i> mdi mdi-apple-keyboard-command
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3">
+                        <i class="mdi mdi-apple-keyboard-control"></i> mdi mdi-apple-keyboard-control
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3">
+                        <i class="mdi mdi-apple-keyboard-option"></i> mdi mdi-apple-keyboard-option
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3">
+                        <i class="mdi mdi-apple-keyboard-shift"></i> mdi mdi-apple-keyboard-shift
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3">
+                        <i class="mdi mdi-apple-safari"></i> mdi mdi-apple-safari
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3">
+                        <i class="mdi mdi-application"></i> mdi mdi-application
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3">
+                        <i class="mdi mdi-apps"></i> mdi mdi-apps
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3">
+                        <i class="mdi mdi-archive"></i> mdi mdi-archive
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3">
+                        <i class="mdi mdi-arrange-bring-forward"></i> mdi mdi-arrange-bring-forward
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3">
+                        <i class="mdi mdi-arrange-bring-to-front"></i> mdi mdi-arrange-bring-to-front
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3">
+                        <i class="mdi mdi-arrange-send-backward"></i> mdi mdi-arrange-send-backward
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3">
+                        <i class="mdi mdi-arrange-send-to-back"></i> mdi mdi-arrange-send-to-back
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3">
+                        <i class="mdi mdi-arrow-all"></i> mdi mdi-arrow-all
+                    </div>
+                    
+                   
+                    
                   </div>
-                </div>
-                <div class="col-md-12 grid-margin stretch-card">
-                  <div class="card">
-                    <div class="card-body">
-                      <h4 class="card-title">Icon size</h4>
-                      <p class="card-description">
-                        Add class <code>.icon-lg</code>, <code>.icon-md</code>, <code>.icon-sm</code>
-                      </p>
-                      <div class="row">
-                        <div class="col-md-4 d-flex align-items-center">
-                          <div class="d-flex flex-row align-items-center">
-                            <i class="ti-package icon-lg text-warning"></i>
-                            <p class="mb-0 ms-1">
-                              Icon-lg
-                            </p>
-                          </div>
-                        </div>
-                        <div class="col-md-4 d-flex align-items-center">
-                          <div class="d-flex flex-row align-items-center">
-                            <i class="ti-package icon-md text-success"></i>
-                            <p class="mb-0 ms-1">
-                              Icon-md
-                            </p>
-                          </div>
-                        </div>
-                        <div class="col-md-4 d-flex align-items-center">
-                          <div class="d-flex flex-row align-items-center">
-                            <i class="ti-package icon-sm text-danger"></i>
-                            <p class="mb-0 ms-1">
-                              Icon-sm
-                            </p>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="col-md-6 grid-margin stretch-card">
-              <div class="card">
-                <div class="card-body">
-                  <h4 class="card-title">Blockquotes</h4>
-                  <p class="card-description">
-                    Wrap content inside<code>&lt;blockquote class="blockquote"&gt;</code>
-                  </p>
-                  <blockquote class="blockquote">
-                    <p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
-                  </blockquote>
-                </div>
-                <div class="card-body">
-                  <blockquote class="blockquote blockquote-primary">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
-                    <footer class="blockquote-footer">Someone famous in <cite title="Source Title">Source Title</cite></footer>
-                  </blockquote>
-                </div>
-              </div>
-            </div>
-            <div class="col-md-6 grid-margin stretch-card">
-              <div class="card">
-                <div class="card-body">
-                  <h4 class="card-title">Address</h4>
-                  <p class="card-description">
-                    Use <code>&lt;address&gt;</code> tag
-                  </p>
-                  <div class="row">
-                    <div class="col-md-6">
-                      <address>
-                        <p class="fw-bold">Star Admin2  inc.</p>
-                        <p>
-                          695 lsom Ave,
-                        </p>
-                        <p>
-                           Suite 00
-                        </p>
-                        <p>
-                          San Francisco, CA 94107
-                        </p>
-                      </address>
-                    </div>
-                    <div class="col-md-6">
-                      <address class="text-primary">
-                        <p class="fw-bold">
-                          E-mail
-                        </p>
-                        <p class="mb-2">
-                          johndoe@examplemeail.com
-                        </p>
-                        <p class="fw-bold">
-                          Web Address
-                        </p>
-                        <p>
-                          www.starAdminPro.com
-                        </p>
-                      </address>
-                    </div>
-                  </div>
-                </div>
-                <div class="card-body">
-                  <h4 class="card-title">Lead</h4>
-                  <p class="card-description">
-                    Use class <code>.lead</code>
-                  </p>
-                  <p class="lead">
-                      Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.
-                  </p>
-                </div>
-              </div>
-            </div>
-            <div class="col-md-12 grid-margin">
-              <div class="card">
-                <div class="card-body">
-                  <h4 class="card-title">Text colors</h4>
-                  <p class="card-description">
-                    Use class <code>.text-primary</code>, <code>.text-secondary</code> etc. for text in theme colors
-                  </p>
-                  <div class="row">
-                    <div class="col-md-6">
-                      <p class="text-primary">.text-primary</p>
-                      <p class="text-success">.text-success</p>
-                      <p class="text-danger">.text-danger</p>
-                      <p class="text-warning">.text-warning</p>
-                      <p class="text-info">.text-info</p>
-                    </div>
-                    <div class="col-md-6">
-                      <p class="text-light bg-dark pl-1">.text-light</p>
-                      <p class="text-secondary">.text-secondary</p>
-                      <p class="text-dark">.text-dark</p>
-                      <p class="text-muted">.text-muted</p>
-                      <p class="text-white bg-dark pl-1">.text-white</p>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="col-md-4 grid-margin stretch-card">
-              <div class="card">
-                <div class="card-body">
-                  <h4 class="card-title">Top aligned media</h4>
-                  <div class="media">
-                    <i class="ti-world icon-md text-info d-flex align-self-start me-3"></i>
-                    <div class="media-body">
-                      <p class="card-text">Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque.</p>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="col-md-4 grid-margin stretch-card">
-              <div class="card">
-                <div class="card-body">
-                  <h4 class="card-title">Center aligned media</h4>
-                  <div class="media">
-                    <i class="ti-world icon-md text-info d-flex align-self-center me-3"></i>
-                    <div class="media-body">
-                      <p class="card-text">Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque.</p>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="col-md-4 grid-margin stretch-card">
-              <div class="card">
-                <div class="card-body">
-                  <h4 class="card-title">Bottom aligned media</h4>
-                  <div class="media">
-                    <i class="ti-world icon-md text-info d-flex align-self-end me-3"></i>
-                    <div class="media-body">
-                      <p class="card-text">Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque.</p>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="col-md-6 grid-margin stretch-card">
-              <div class="card">
-                <div class="card-body">
-                  <h4 class="card-title">Highlighted Text</h4>
-                  <p class="card-description">
-                    Wrap the text in <code>&lt;mark&gt;</code> to highlight text
-                  </p>
-                  <p>
-                    It is a long <mark class="bg-warning text-white">established</mark> fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution
-                  </p>
-                </div>
-              </div>
-            </div>
-            <div class="col-md-6 grid-margin stretch-card">
-              <div class="card">
-                <div class="card-body">
-                  <h4 class="card-title">List Unordered</h4>
-                  <ul>
-                    <li>Lorem ipsum dolor sit amet</li>
-                    <li>Consectetur adipiscing elit</li>
-                    <li>Integer molestie lorem at massa</li>
-                    <li>Facilisis in pretium nisl aliquet</li>
-                    <li>Nulla volutpat aliquam velit</li>
-                  </ul>
-                </div>
-              </div>
-            </div>
-            <div class="col-md-6 grid-margin stretch-card">
-              <div class="card">
-                <div class="card-body">
-                  <h4 class="card-title">Bold text</h4>
-                  <p class="card-description">
-                    Use class<code>.fw-bold</code>
-                  </p>
-                  <p>
-                    It is a long <span class="fw-bold">established fact</span> that a reader will be distracted by the readable content
-                    of a page when looking at its layout. The point of using Lorem Ipsum is that it has a
-                    more-or-less normal distribution
-                  </p>
-                </div>
-              </div>
-            </div>
-            <div class="col-md-6 grid-margin stretch-card">
-              <div class="card">
-                <div class="card-body">
-                  <h4 class="card-title">List Ordered</h4>
-                  <ol>
-                    <li>Lorem ipsum dolor sit amet</li>
-                    <li>Consectetur adipiscing elit</li>
-                    <li>Integer molestie lorem at massa</li>
-                    <li>Facilisis in pretium nisl aliquet</li>
-                    <li>Nulla volutpat aliquam velit></li>
-                  </ol>
-                </div>
-              </div>
-            </div>
-            <div class="col-md-6 grid-margin stretch-card">
-              <div class="card">
-                <div class="card-body">
-                  <h4 class="card-title text-primary">Underline</h4>
-                  <p class="card-description">
-                    Wrap in <code>&lt;u&gt;</code> tag for underline
-                  </p>
-                  <p>
-                    <u>lorem ipsum dolor sit amet, consectetur
-                      mod tempor incididunt ut labore et dolore
-                      magna aliqua.</u>
-                  </p>
-                </div>
-                <div class="card-body">
-                  <h4 class="card-title text-danger">Lowercase</h4>
-                  <p class="card-description">
-                    Use class <code>.text-lowercase</code>
-                  </p>
-                  <p class="text-lowercase">
-                    lorem ipsum dolor sit amet, consectetur
-                      mod tempor incididunt ut labore et dolore
-                      magna aliqua.
-                  </p>
-                </div>
-                <div class="card-body">
-                  <h4 class="card-title text-warning">Uppercase</h4>
-                  <p class="card-description">
-                    Use class <code>.text-uppercase</code>
-                  </p>
-                  <p class="text-uppercase">
-                    lorem ipsum dolor sit amet, consectetur
-                      mod tempor incididunt ut labore et dolore
-                      magna aliqua.
-                  </p>
-                </div>
-              </div>
-            </div>
-            <div class="col-md-6 grid-margin stretch-card">
-              <div class="card">
-                <div class="card-body">
-                  <h4 class="card-title">Mute</h4>
-                  <p class="card-description">
-                    Use class <code>.text-muted</code>
-                  </p>
-                  <p class="text-muted">
-                    lorem ipsum dolor sit amet, consectetur
-                      mod tempor incididunt ut labore et dolore
-                      magna aliqua.
-                  </p>
-                </div>
-                <div class="card-body">
-                  <h4 class="card-title text-success">Strike</h4>
-                  <p class="card-description">
-                    Wrap content in <code>&lt;del&gt;</code> tag
-                  </p>
-                  <p>
-                    <del>
-                      lorem ipsum dolor sit amet, consectetur
-                      mod tempor incididunt ut labore et dolore
-                      magna aliqua.
-                    </del>
-                  </p>
-                </div>
-                <div class="card-body">
-                  <h4 class="card-title text-info">Capitalized</h4>
-                  <p class="card-description">
-                    Use class <code>.text-capitalize</code>
-                  </p>
-                  <p class="text-capitalize">
-                    lorem ipsum dolor sit amet, consectetur
-                      mod tempor incididunt ut labore et dolore
-                      magna aliqua.
-                  </p>
-                </div>
-              </div>
-            </div>
-            <div class="col-md-4 grid-margin grid-margin-md-0 stretch-card">
-              <div class="card">
-                <div class="card-body">
-                  <h4 class="card-title">List with icon</h4>
-                  <p class="card-description">Add class <code>.list-ticked</code> to <code>&lt;ul&gt;</code></p>
-                  <ul class="list-ticked">
-                    <li>Lorem ipsum dolor sit amet</li>
-                    <li>Consectetur adipiscing elit</li>
-                    <li>Integer molestie lorem at massa</li>
-                    <li>Facilisis in pretium nisl aliquet</li>
-                    <li>Nulla volutpat aliquam velit></li>
-                  </ul>
-                </div>
-              </div>
-            </div>
-            <div class="col-md-4 grid-margin grid-margin-md-0 stretch-card">
-              <div class="card">
-                <div class="card-body">
-                  <h4 class="card-title">List with icon</h4>
-                  <p class="card-description">Add class <code>.list-arrow</code> to <code>&lt;ul&gt;</code></p>
-                  <ul class="list-arrow">
-                    <li>Lorem ipsum dolor sit amet</li>
-                    <li>Consectetur adipiscing elit</li>
-                    <li>Integer molestie lorem at massa</li>
-                    <li>Facilisis in pretium nisl aliquet</li>
-                    <li>Nulla volutpat aliquam velit></li>
-                  </ul>
-                </div>
-              </div>
-            </div>
-            <div class="col-md-4 grid-margin grid-margin-md-0 stretch-card">
-              <div class="card">
-                <div class="card-body">
-                  <h4 class="card-title">List with icon</h4>
-                  <p class="card-description">Add class <code>.list-star</code> to <code>&lt;ul&gt;</code></p>
-                  <ul class="list-star">
-                    <li>Lorem ipsum dolor sit amet</li>
-                    <li>Consectetur adipiscing elit</li>
-                    <li>Integer molestie lorem at massa</li>
-                    <li>Facilisis in pretium nisl aliquet</li>
-                    <li>Nulla volutpat aliquam velit></li>
-                  </ul>
                 </div>
               </div>
             </div>
           </div>
         </div>
-        <!-- content-wrapper ends -->
         <!-- partial:../../partials/_footer.html -->
         <footer class="footer">
           <div class="d-sm-flex justify-content-center justify-content-sm-between">
@@ -903,8 +680,6 @@
         </footer>
         <!-- partial -->
       </div>
-      <!-- main-panel ends -->
     </div>
-    <!-- page-body-wrapper ends -->
+
   </div>
-  <!-- container-scroller -->

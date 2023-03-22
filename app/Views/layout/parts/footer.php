@@ -11,6 +11,8 @@
   <script src="<?php echo base_url(); ?>/assets/js/jquery.cookie.js" type="text/javascript"></script>
   <script src="<?php echo base_url(); ?>/assets/js/dashboard.js"></script>
   <script src="<?php echo base_url(); ?>/assets/js/Chart.roundedBarCharts.js"></script>
+  <script src="<?php echo base_url(); ?>/assets/js/chart-data.js"></script>
+
   </body>
 
 </html>

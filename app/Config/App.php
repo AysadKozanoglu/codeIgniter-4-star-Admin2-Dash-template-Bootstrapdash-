@@ -21,7 +21,7 @@ class App extends BaseConfig
      *
      *    http://example.com/
      */
-    public string $baseURL = 'http://staradmin.cdci/';
+    public string $baseURL = 'http://walletbitcoin.cdci/';
 
     /**
      * Allowed Hostnames in the Site URL other than the hostname in the baseURL.
